@@ -17,7 +17,7 @@
 </p>
 
 
-## 🤝 I'm Open to Collaborations:
+## 🤝 I'm Open to Collaborations
 
 ## 📫 How to reach me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/agbakwuru-oluchi-6a9265266)
