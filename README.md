@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @oluchicharity
-- 👀 I’m interested in Web2 and Web3
+- 👋 Hi, I’m Agbakwuru Oluchi
 - 🌱 I’m currently learning Web3
-- 💞️ I’m looking to collaborate on live Projects
 - 📫 How to reach me 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I play mobile and video games.
