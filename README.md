@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Agbakwuru Oluchi
-- 🌱 I’m a Backend Developer
+- 🌱 I’m a Backend and Smart-Contract Developer
 -  I'm currently learning Web3
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love mobile and video games.
