@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Agbakwuru Oluchi
-- 🌱 I’m a Backend and Smart-Contract Developer
--  I'm currently learning Web3
+- 🌱 I’m a Backend and Blockchain Developer
+-  Currently learning Solidity
+-  Building SAFIRA....
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love mobile and video games.
+- ⚡ Fun fact:...hmmm
 
 ---
 
