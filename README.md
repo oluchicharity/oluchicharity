@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Agbakwuru Oluchi
 - 🌱 I’m a Backend and Blockchain Developer
--  Currently learning Solidity
--  Building SAFIRA....
+-  I'm open to collaborations
+-  SAFIRA....
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:...hmmm
 
