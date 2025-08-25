@@ -3,7 +3,7 @@
 -  I'm open to collaborations
 -  SAFIRA....
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact:...hmmm
+- ⚡ Fun fact: I debugged my first smart contract while binge-watching sci-fi!
 
 ---
 
